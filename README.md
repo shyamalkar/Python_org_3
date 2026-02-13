@@ -22,8 +22,9 @@ ternary oprator,
 user defined function,
 worldcount list,
 write list loop,
-write loop . 
-How to run ? 
+write loop.
+
+ How to run ? 
 1. just open the repository .
 2. select the file.
 3. copy the code.
