@@ -23,7 +23,14 @@ user defined function,
 worldcount list,
 write list loop,
 write loop . 
-
+How to run ? 
+1. just open the repository .
+2. select the file.
+3. copy the code.
+4. open any code writer.
+5. just paste the code.
+6. save.
+7. and click the run botton.
 Author:- 
 
 Shyamal kar
