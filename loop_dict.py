@@ -2,7 +2,7 @@
 
 user = {
     "user name": " my_user",
-    "password":"test@123",
+    "password":"test@1234",
     "email": "my_user@example.com",
     "address":"ABC road. 111111",
     "country": "Australia"
