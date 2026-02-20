@@ -22,5 +22,5 @@ elif 80 <= marks < 90:
 elif 70 <= marks < 80:
     print("Your grade is C")
 else:
-    print("You faild this exame")
+    print("You faild this exame and ready to prepare it")
     
