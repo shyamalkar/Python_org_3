@@ -7,4 +7,4 @@ profits = [10, 20, 30]
 
 for index in range (len(profits)):
     q = index + 1 
-    print(f"Hello the number {q} is {profits[index]}")
+    print(f"Hello the number {q} is {profits[index]}") 
